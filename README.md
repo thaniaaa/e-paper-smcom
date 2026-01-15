@@ -1,11 +1,11 @@
-# 📰 E-Paper Subscription Website
+# E-Paper Subscription Website
 
 Website e-paper berbasis **Laravel 11** dengan sistem **langganan bulanan** dan integrasi **Midtrans Snap Payment Gateway**.  
 User hanya dapat mengakses konten e-paper jika memiliki langganan aktif.
 
 ---
 
-## ✨ Fitur
+##  Fitur
 - Autentikasi user (Login, Register, Verifikasi Email)
 - Sistem langganan:
   - 1 Bulan
@@ -20,7 +20,7 @@ User hanya dapat mengakses konten e-paper jika memiliki langganan aktif.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - Laravel 11
 - PHP 8.2+
 - MySQL / MariaDB
@@ -30,10 +30,10 @@ User hanya dapat mengakses konten e-paper jika memiliki langganan aktif.
 
 ---
 
-## 📦 Instalasi
+##  Instalasi
 
 ### 1. Clone Repository
-git clone https://github.com/username/epaper-subscription.git
+git clone https://github.com/thaniaaa/e-paper-smcom.git
 cd epaper-subscription
 
 ### 2. Instal dependency
